@@ -1,5 +1,6 @@
 class max_7
 {
+	//WAP that excepts 3 integer and find the maximum of 3
 	public static void main(String[] args)
 	{
 int a=3;
