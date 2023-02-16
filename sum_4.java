@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//WAP that excepts to integer formthe user and calculate the some of the two integer
 class sum_4
 {
 	public static void main(String[] args)
